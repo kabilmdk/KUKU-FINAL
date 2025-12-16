@@ -1,0 +1,9 @@
+
+{
+"name":"KUKU Crackers",
+"short_name":"Crackers",
+"start_url":"index.html",
+"display":"standalone",
+"background_color":"#b30000",
+"theme_color":"#b30000"
+}
